@@ -16,7 +16,10 @@ This repository may be used to:
 
 ```bash
 pip install -e sphinx
-cd docs; make html
+cd docs
+
+make html
+browse _build/html/index.html
 ```
 
 ## The latest version

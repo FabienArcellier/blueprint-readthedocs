@@ -88,12 +88,19 @@ html_theme = 'alabaster'
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
-# html_theme_options = {}
+html_theme_options = {
+    "show_powered_by": False,
+    "github_user": "FabienArcellier",
+    "github_repo": "blueprint-readthedocs",
+    "github_banner": True,
+    "show_related": False,
+    "note_bg": "#FFF59C",
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['_static']
+# html_static_path = ['_static']
 
 
 # -- Options for HTMLHelp output ------------------------------------------
@@ -151,6 +158,3 @@ texinfo_documents = [
      author, 'blueprint-readthedocs', 'One line description of project.',
      'Miscellaneous'),
 ]
-
-
-
