@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.org/FabienArcellier/blueprint-readthedocs.svg?branch=master)](https://travis-ci.org/FabienArcellier/blueprint-readthedocs)
+![Build Status](https://travis-ci.org/FabienArcellier/blueprint-readthedocs.svg?branch=master)
+![Documentation Status](https://readthedocs.org/projects/blueprint-readthedocs/badge/?version=latest)
 
 ## Motivation
 
